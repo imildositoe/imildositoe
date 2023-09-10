@@ -9,7 +9,7 @@
 
 <p align="center">
   <a href="https://github.com/imildositoe">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=alsiam&theme=radical" alt="Imildo Sitoe's GitHub Contribution"/>
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=imildositoe&theme=radical" alt="Imildo Sitoe's GitHub Contribution"/>
   </a>
 </p>
 
