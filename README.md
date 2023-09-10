@@ -1,11 +1,11 @@
 <!-- @author poisonshade -->
-<h1 align="center">Imildo Sitoe</h1>
+<h1 align="center">Hi :sunglasses:, i am Imildo Sitoe</h1>
 
 <!--![Metrics](https://metrics.lecoq.io/imildositoe)-->
 
 <p align="center">
   <a href="https://github.com/imildositoe">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=alsiam&theme=radical&border=7F3FBF&background=0D1117" alt="Imildo's GitHub streak"/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=imildositoe&theme=radical&border=7F3FBF&background=0D1117" alt="Imildo's GitHub streak"/>
   </a>
 </p>
 
