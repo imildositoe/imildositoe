@@ -1,5 +1,6 @@
 <!-- @author poisonshade -->
-<h2><Imildo Sitoe/></h2>
+Imildo Sitoe
+
 ![Metrics](https://metrics.lecoq.io/imildositoe)
 
 <p align="center">
