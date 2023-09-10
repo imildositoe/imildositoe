@@ -1,5 +1,5 @@
 <!-- @author poisonshade -->
-<h1 align="center">Hi :sunglasses:, i am Imildo Sitoe</h1>
+<h1 align="center">hi :sunglasses:, this is Imildo Sitoe</h1>
 
 <!--![Metrics](https://metrics.lecoq.io/imildositoe)-->
 
