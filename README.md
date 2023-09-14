@@ -1,7 +1,7 @@
 <!-- @author poisonshade -->
 <h1 align="center">hey there :sunglasses:, this is Imildo Sitoe</h1>
 
-<!--![Metrics](https://metrics.lecoq.io/imildositoe)-->
+![Metrics](https://metrics.lecoq.io/imildositoe)
 
 <p align="center">
   <a href="https://github.com/imildositoe">
@@ -22,4 +22,4 @@
 </a>
 
 
-<!--![Imildo Sitoe's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imildositoe&custom_title=Imildo%20Sitoe's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)-->
+![Imildo Sitoe's Graph](https://github-readme-activity-graph.cyclic.app/graph?username=imildositoe&custom_title=Imildo%20Sitoe's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
