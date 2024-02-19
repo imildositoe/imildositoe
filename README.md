@@ -1,7 +1,7 @@
 <!-- @author poisonshade -->
 <h1 align="center">hey there :sunglasses:, this is Imildo Sitoe</h1>
 
-![Metrics](https://metrics.lecoq.io/insights/imildositoe)
+<!--![Metrics](https://metrics.lecoq.io/insights/imildositoe)-->
 
 <p align="center">
   <a href="https://github.com/imildositoe">
